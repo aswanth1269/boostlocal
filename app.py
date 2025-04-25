@@ -100,7 +100,7 @@ def scrape_google_maps(query: str, max_results: int) -> BusinessList:
 st.title("📍 Google Maps Scraper")
 st.markdown("Scrape business listings directly from Google Maps using Playwright.")
 
-query = st.text_input("🔍 Enter your search query:", value="dermatologist in Pune")
+query = st.text_input("🔍 Enter your search query:", value="cafes in vellore")
 limit = st.slider("📊 Number of listings to scrape:", min_value=5, max_value=100, value=20, step=5)
 
 if st.button("🚀 Start Scraping"):
