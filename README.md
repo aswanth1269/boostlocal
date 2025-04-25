@@ -1,4 +1,4 @@
-# 🌐 Localyst – Smart Local Insights from Google Maps
+# 🌐 BoostLocal – Smart Local Insights from Google Maps
 
 ### Final Project
 **Project Title**: Leveraging Google Technologies for Community Impact  
@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-**Localyst** is a lightweight, user-friendly web application that helps entrepreneurs, small business owners, NGOs, and community planners collect real-time business listing data from **Google Maps**.
+**BoostLocal** is a lightweight, user-friendly web application that helps entrepreneurs, small business owners, NGOs, and community planners collect real-time business listing data from **Google Maps**.
 
 With just a search query and a click, users can extract essential business insights like names, addresses, contact details, review metrics, and geo-coordinates — all exportable in CSV or Excel formats.
 
@@ -31,7 +31,7 @@ Manual methods are time-consuming and inconsistent. There’s a strong need for 
 
 ## 💡 Solution
 
-Localyst bridges the gap by:
+BoostLocal bridges the gap by:
 
 - Automating business discovery using **Google Maps**
 - Providing easy access to structured data
@@ -98,7 +98,7 @@ streamlit run app.py
 
 ## 📈 Potential Impact
 
-Localyst can be used by:
+BoostLocal can be used by:
 
 - 📍 **Small business owners** conducting competitor research
 - 🏥 **NGOs** mapping health/education infrastructure
