@@ -97,7 +97,7 @@ def scrape_google_maps(query: str, max_results: int) -> BusinessList:
 
 # ---- Streamlit UI ----
 
-st.title("📍 Google Maps Scraper")
+st.title("🌐 BoostLocal ")
 st.markdown("Scrape business listings directly from Google Maps using Playwright.")
 
 query = st.text_input("🔍 Enter your search query:", value="cafes in vellore")
